@@ -7,9 +7,23 @@
   box-sizing:border-box;
 }
 ul{
-  padding: 40px;
+  padding:  5vh;
   margin: 0;
  background-color: blue;
  color: blanchedalmond;
  font-size: medium;
+}
+input{
+  padding: 0px;
+  
+  border: 2px solid gray;
+}
+.hj{
+  width:300px;
+}
+.hj1{
+  width: 300px;
+}
+.jk{
+  height: 600px;
 }
